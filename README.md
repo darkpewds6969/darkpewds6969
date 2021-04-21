@@ -10,4 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Darkpewds GitHub stats](https://github-readme-stats.vercel.app/api?username=darkpewds6969&count_private=true)
